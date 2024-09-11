@@ -1,4 +1,4 @@
-## Hi there 👋
+Hey, I am currently studying to make something cool :ok_hand:. Lets see where the future will take me to 😄⚡
 
 <!--
 **BayKdang/BayKdang** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
