@@ -1,6 +1,6 @@
 # Hi 👋, I'm Vichea
 
-<p align="left"> <img src="https://komarev.com/ghpvc/?username=BayKdang&label=Profile views&color=0e75b6&style=flat" alt="BayKdang" /> </p>
+<!-- <p align="left"> <img src="https://komarev.com/ghpvc/?username=BayKdang&label=Profile views&color=0e75b6&style=flat" alt="BayKdang" /> </p> -->
 
 - 🔭 I'm currently working on **Some networking projects**
 
